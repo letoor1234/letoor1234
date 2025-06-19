@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Angel]!
+# Hi there 👋 I'm Angel!
 
 Welcome to my GitHub profile — I'm a passionate **Full Stack Developer** who loves building practical solutions, integrating services, and automating workflows.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile — I'm a passionate **Full Stack Developer** who l
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **[My Own Project!]**
+- 🔭 Currently working on: **My Own Project!**
 - 🌱 Learning: **n8n**, **Supabase**, **AI integrations**, and advanced **API orchestration**
 - ⚡ Fun fact: I build tools to make other tools work better!
 - 🗂️ Previous experience:  
@@ -33,18 +33,18 @@ Welcome to my GitHub profile — I'm a passionate **Full Stack Developer** who l
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[letoor1234]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=letoor1234&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letoor1234&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 How to reach me
 
-- 📧 Email: [angelmartinezwb@gmail.com]
-- 🌐 Portfolio: [https://amartinez.web.app]
-- 💼 LinkedIn: [[Angel Martinez](https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/angel-martinez-wb/)
+- 📧 Email: angelmartinezwb@gmail.com
+- 🌐 Portfolio: https://amartinez.web.app
+- 💼 LinkedIn: [Angel Martinez](https://www.linkedin.com/in/angel-martinez-wb/)
 
 ---
 
